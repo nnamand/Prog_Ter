@@ -1,6 +1,11 @@
 Conceitos:
-- Iteligência artificial = é a capacidade de soluções tecnológicas de simular a inteligência humana, realizando atividades de forma autônoma e aprendendo por si através de um grande volume de dados provenientes dos usuáros. 
-- Dados = são valores atribuídos a algo, podendo ser conceitos, posições em mapa e números.
-- Informação = é um conjunto de conhecimentos reunidos sobre algo ou alguém. 
-- Banco de dados = coleção organizada de informações/ dados estruturados eletronicamente em um sistema de computador. 
-- Servidor (computação) = são computadores ou sistemas computacionais que atendem requisições de dispositivos clientes, através de uma o mais redes (locais/ remotas), capazes de executar aplicações (programas), prover processamento e/ ou capacidade de armazenamento de dados.  
+- Iteligência artificial = é a capacidade de soluções tecnológicas de simular a inteligência humana, realizando atividades de forma autônoma e aprendendo por si através de um grande volume de dados provenientes dos usuáros. REF.: Tableau 
+- Dados = são valores atribuídos a algo, podendo ser conceitos, posições em mapa e números. REF.: Escola de Dados
+- Informação = é um conjunto de conhecimentos reunidos sobre algo ou alguém. REF.: Dicio.com
+- Banco de dados = coleção organizada de informações/ dados estruturados eletronicamente em um sistema de computador. REF.: Oracle
+- Servidor (computação) = são computadores ou sistemas computacionais que atendem requisições de dispositivos clientes, através de uma o mais redes (locais/ remotas), capazes de executar aplicações (programas), prover processamento e/ ou capacidade de armazenamento de dados. REF.: QNAP Brasil  
+- Nuvem = rede extensa de servidores remotos em todo o mundo que armazenam e gerenciam dados, executam aplicativos e fornecem conteúdo e serviços através da internet. Ref: Microsoft Azure
+- Rede Neural Artificial = método de I.A. que ensina computadores a processar dados de forma inspirada pelo cérebro humano, o processo é chamado "machine learning" e utiliza neurônios interconectados em uma estrutura em camadas, similar ao cérebro humano. A rede neural cria um sistema adaptativo onde os computadores aprendem com os erros e se aprimoram continuadamente e as redes neurais artificiais tentam solucionar problemas complicados  Ref.: Amazon Web Services
+- Algoritmo = sistema de comandos em passo a passo claro e lógico para o computador que conduzem as ações para a resolução de um problema ou para atingir um determinado objetivo. Ref.: Casa do Desenvolvedor
+- Neutralidade da rede = princípio que garante a liberdade e a igualdade na internet. Assegura que todos tenham a mesma oportunidade de acessar e compartilhas conteúdos e informações, independente de quem são e o tipo de conteúdo transmitido. Ref.: JusBrasil
+- Sistema de Arquivos = estrutura utilizada por um sistema operacional para organizar e gerenciar arquivos em um dispositivo de armazenamento, como um disco rígido, unidade de estado sólido (SSD) ou pendrive. O sistema define como os dados serão armazenados, acessados e organizados no dispositivo de armazenamento. Ref.: Kingston Technology 
