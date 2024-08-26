@@ -1,14 +1,20 @@
-Relação entre LGPD e os Data Centers
-A LGPD é a Lei de Proteção de Dados que exige mais responsabilidade das organizações com o gerenciamento das informações armazenadas e relaciona-se a Data Centers no sentido de assegurar a segurança dos dados ali contidos, uma vez que Data Centers são centros de processamentos de dados que hospedam aplicações e informações. Para garantir a segurança, a LGPD exige um mapeamento dos dados sob a responsabilidade da instituição, avaliando o que pode ser gerido por serviços terceirizados e o que deve ser mantido pela própria orgnaização. Essas exigências de segurança garantem o acesso limitado aos dados, diminuindo os vazamentos de dados e roubos. 
+1) Relação entre LGPD e os Data Centers:
+A LGPD é a Lei de Proteção de Dados que exige responsabilidade das organizações com o gerenciamento das informações armazenadas e relaciona-se a Data Centers no sentido de assegurar a segurança dos dados ali contidos, uma vez que Data Centers são centros de processamentos de dados que hospedam aplicações e informações. Para garantir a segurança, a LGPD exige um mapeamento dos dados sob a responsabilidade da instituição, avaliando o que pode ser gerido por serviços terceirizados e o que deve ser mantido pela própria orgnaização. Essas exigências de segurança garantem o acesso limitado aos dados, diminuindo os vazamentos de dados e roubos. 
 A atuação da LGPD é de suma importância, uma vez que os dados contidos em Data Centers são de propriedades dos usuários que os armazenam e não têm permissão ou finalidade de se tornarem públicos. Assim, para se obter uma maior segurança, a lei existe para garantir que os direitos dos usuários sejam respeitados.   
 
-Referência: https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/#:~:text=Home-,Rela%C3%A7%C3%A3o%20entre%20Data%20Center%20e%20a,de%20Prote%C3%A7%C3%A3o%20de%20Dados%20(LGPD)&text=A%20Lei%20Geral%20de%20Prote%C3%A7%C3%A3o%20de%20Dados%20(LGPD)%20obriga%20as,a%20administra%C3%A7%C3%A3o%20do%20Data%20Center.
 
-Formatos de arquivos de dados proprietários e abertos
-- exmeplos de formatos 
+2) Formatos de arquivos de dados proprietários e abertos
+- exemplos de formatos 
 - discuta as implicações relacionadas a dados públicos
-Os dados proprietários são aqueles coletados através de uma tecnologia de monitoramento de websites, marketing e formulários de cadastro. São dados obtidos diretamente da pessoa e podem ser considerados confiáveis. 
-Por outro lado, os daods abertos são aqueles de domínio público, usados para descrição e armazenamento de dados dados digitais, livres de restrições legais para o uso.  
+Os dados proprietários são aqueles coletados através de uma tecnologia de monitoramento de websites, marketing e formulários de cadastro. São dados obtidos diretamente da pessoa e podem ser considerados confiáveis. São apresentados em formatos criados por empresas específicas e requerem um software para serem lidos. Alguns desses formatos são as extensões .docx, .pdf, .xlsx.  
+Por outro lado, os dados abertos são aqueles de domínio público, usados para descrição e armazenamento de dados digitais, livres de restrições legais para o uso. Seus formatos de uso incluem .txt, .png, .html, dentre outros. 
+Os dados abertos não devem ser confundidos com os dados públicos, uma vez que diferem em conceito. Os dados públicos, apesar de serem disponibilizados para o público, são informações produzidas por órgãos e empresas que podem apresentar restrições. Atualmente o uso e a gestão dos dados públicos são regulamentados pela LGPD em território nacional, o que garante a proteção e a privacidade das informações. Assim, mesmo os dados considerados públicos possuem a garantia de proteção da lei.    
 
-Referência: https://blog.pmweb.com.br/2021/08/06/autoridade-dos-dados-proprietarios-por-que-tornar-se-um/#:~:text=Basicamente%20s%C3%A3o%20os%20dados%20propriet%C3%A1rios,cadastro%20no%20clube%20de%20fidelidade.
+Referências: 
+https://blog.pmweb.com.br/2021/08/06/autoridade-dos-dados-proprietarios-por-que-tornar-se-um/#:~:text=Basicamente%20s%C3%A3o%20os%20dados%20propriet%C3%A1rios,cadastro%20no%20clube%20de%20fidelidade.
+
+https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/#:~:text=Home-,Rela%C3%A7%C3%A3o%20entre%20Data%20Center%20e%20a,de%20Prote%C3%A7%C3%A3o%20de%20Dados%20(LGPD)&text=A%20Lei%20Geral%20de%20Prote%C3%A7%C3%A3o%20de%20Dados%20(LGPD)%20obriga%20as,a%20administra%C3%A7%C3%A3o%20do%20Data%20Center.
+
+https://pt.wikipedia.org/wiki/Formato_propriet%C3%A1rio
+
 
