@@ -1,7 +1,7 @@
 A linguagem de programação é um sistema que permite a criação de programas através de um conjunto de palavras-chave, símbolos, temros e comandos. As três linguagens de programação mais utilizadas atualmente são Phyton, JavaScript e Java. 
 Phyton é uma linguagem de uso otimizado em diferentes sistemas operacionais e com possibilidade de automação de comandos, além de ser possível integrá-la com outras linguagens. Possui uma biblioteca ampla e diversos frameworks para diferentes aplicações. Suas variáveis não precisam de um tipo explícito e podem mudar de tipo durante a execução. Sua sintaxe é clara e concisa, facilitando a escrita e leitura do código. 
 
-print "Digite seu nome: "
-nome = raw_input ()
-if nome != "" :
-print "Ola, " + nome + "!" else:
+def saudacao (nome):
+  return f"Olá, {nome}!"
+
+print (saudacao("Mundo"))
