@@ -5,3 +5,24 @@ def saudacao (nome):
   return f"Olá, {nome}!"
 
 print (saudacao("Mundo"))
+
+Javascript é uma linguagem muito utilizada para o desenvolvimento de páginas e compõe a estruturação da maioria dos navegadores para cesso à internet. É projetado para responder a cliques, botões e interação do usuário. 
+
+function saudacao(nome) {
+    return `Olá, ${nome}!`;
+}
+
+console.log(saudacao("Mundo"));
+
+Java é uma linguagem que opera em aplicativos e permite funcionalidades de edição e armazenamento de dados. É muito utilizada em desenvolvimento corporativo e aplicações grandes e complexas, como sistemas corporativos, aplicações móveis (Android) e aplicações da web e desktop. Suas variáveis precisam ser declaradas como um tipo específico e não pode mudar durante a execução. 
+
+public class Saudacao {
+    public static void main(String[] args) {
+        System.out.println(saudacao("Mundo"));
+    }
+
+    public static String saudacao(String nome) {
+        return "Olá, " + nome + "!";
+    }
+}
+
