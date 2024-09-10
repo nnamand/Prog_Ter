@@ -1,0 +1,16 @@
+def bubble_sort(seq):
+    print ("Ordene os números 24, 67, 48, 93, 33, 17, 65")
+    n = len(seq)
+    # Percorre todos os elementos do array
+    for i in range(n):
+        # Últimos i elementos já estão na posição correta
+        for j in range(0, n-i-1):
+            # Percorre o array do início até o último elemento não ordenado
+            if seq[j] > seq[j+1]:
+                # Troca se o elemento encontrado for maior que o próximo elemento
+                seq[j], seq[j+1] = seq[j+1], seq[j]
+
+# Exemplo de uso
+seq = [24, 67, 48, 93, 33, 17, 65]
+bubble_sort(seq)
+print("Números ordenados são:", seq)
