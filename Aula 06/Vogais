@@ -1,0 +1,18 @@
+def extrair_vogais(palavras):
+    vogais = "aeiou"
+    resultado = []
+    
+    for palavra in palavras:
+        # Filtra apenas as vogais da palavra atual
+        vogais_na_palavra = [letra for letra in palavra.lower() if letra in vogais]
+        resultado.append(''.join(vogais_na_palavra))
+    
+    return resultado
+
+# Exemplo de uso
+grupo_de_palavras = ["animal", "gato", "cachorro", "papagaio", "peixe", "cobra", "cavalo", "ovelha"]
+vogais_extraidas = extrair_vogais(grupo_de_palavras)
+
+# Imprime as vogais extraídas
+for palavra, vogais in zip(grupo_de_palavras, vogais_extraidas):
+    print(f"Palavra: {palavra} -> Vogais: {vogais}")
