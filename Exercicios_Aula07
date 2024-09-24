@@ -24,7 +24,6 @@ def calculadora():
 
     return f"O resultado de {num1} {operacao} {num2} é {resultado}."
 
-# Chamar a função
 print(calculadora())
 
 #Exercicio 03
@@ -37,7 +36,6 @@ def lista_de_compras():
     for item in lista:
         print(item)
 
-# Chamar a função
 lista_de_compras()
 
 #Exercicio 04
@@ -62,5 +60,4 @@ def coletar_nomes():
     for nome in nomes:
         print(nome)
 
-# Chamar a função
 coletar_nomes()
