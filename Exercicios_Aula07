@@ -1,6 +1,8 @@
 #Exercício 01
-def dados(nome, idade, cidade):
-    print(nome,idade, cidade, sep="-", end="!\n")
+def dados():
+    dados=input("Digite seu nome, idade e cidade")
+    
+    print("Dados:", dados, sep="-", end="!\n")
 
 #Exercicio 02
 def calculadora():
