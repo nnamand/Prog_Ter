@@ -1,10 +1,6 @@
 #Exercício 01
-
-def funcao():
-    variavel1 = input("Digite seu nome: ")
-    variavel2 = input("Digite a sua idade: ")
-    variavel3 = input("Digite sua cidade: ")
-    print(variavel1, variavel2, variavel3, sep="-", end="!\n")
+def dados(nome, idade, cidade):
+    print(nome,idade, cidade, sep="-", end="!\n")
 
 #Exercicio 02
 def calculadora():
