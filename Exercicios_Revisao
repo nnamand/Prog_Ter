@@ -1,2 +1,35 @@
 1- A computaçao ubíqua é a que nos envolve; está em todos os lugares. qualquer profissional deve ter domínio da tecnologia e das ferramentas para poder tomar decisões, mas há um aspecto epecífico no Direito que envolve a tecnologia para que se possa mediar e resolver os conflitos, é preciso conhecer as normas e ter conhecimento sobre a computação porque todos os ramos do Direito estão em contato com a computação (ex.: herança digital, pagamento digital, leis trabalhistas específicas sobre computação).
-2- 
+2- Algoritmo é uma sequência de passos para se resolver um problema ou organizar uma tarefa. Nuvem é uma rede global de servidores com armazenamento remoto de dados; pode ser vista como uma camada de abstração sobre um conjunto de hardwares que os faz serem vistos como uma única coisa. Servidor é um computador que é mais capaz que os outros e presta serviço para computadores clientes; é um computador ou um programa e ambos prestam serviços ao cliente/ o que os diferencia?.  
+3 - A internet é composta por esses elementos, os conceitos são juntados na mesma palavra porque são vistos de diferentes níveis de abstração. 
+4- Os computadores foram inventados para realizar repetidamente as ações de cálculos de senso, colheitas, impostos, etc. O computador não cria, apenas junta informações.
+5- A IA aprende a reproduzir o comportamento humano e quando um caso aparece, ela consegue tomar uma decisão justa conforme as anteriores, o problema é que se houve um comportamento errado, a rede neural a repete. Na decisão médica, não pode poruqe o médico precisa ser responsabilizado e não se pode responsabilizar o algoritmo. A decisão de empréstimo precisa ser justificada no Brasil e as estruturas de rede neural são muito complexas e não é capaz de utilizar parâmetros para explicação; as decisões não são passíveis de explicação pela IA. No caso do médico, não há solução porque é preciso responsabilizar uma pessoa. Em decisão de empréstimos, existe a árvore de decisões, um modelo de algoritmo para a tomada de decisões, onde as escolhas são tomadas de forma clara e é possível que haja justificativa. 
+6- Todo arquivo (conjunto de dados que descreve uma informação) é formado por 0 e 1 (binário), em teoria, todos são binários. O arquivo de texto é um arquivo node 0 e 1 só representam caracteres, os outros arqivos binários admitem que as variáveis sejam quaquer coisa.
+7- o formato propritário é controlado por uma instituição que licenciencia o uso de acordo com seus próprios interesses, o formato aberto é aquele cuja especificação é pública, mas também é controlado por instituições. Contextualizando, os dados públicos estão disponíveis para qualquer pessoa e é oriundo de ação estatal ou empresa de interesse público; todos devem estar disponibilizados em formato de arquivo aberto por recomendação do TCU, pois isso garante a disponibilidade do dado. 
+8- Os dois estão relacionados a publicidade da especificação e o uso. O formato aberto tem especificação pública e pode ser usado por empresas. O protocolo de comunicação proprietári é restrito. Contextualizando, a inernet foi construída em protocolo aberto, mas hápossibilidade de se ter protocolo proprietário. 
+9- a) o sistema operacional é um software que gerencia os dispositivos do computador e executa programas, além de gerenciar o hardware do computador. 
+b) Existem vários, Windows, Mac OS, Linux.
+c) sim, pois o computador podem funcionar com diferentes sistemas operacionais, sem obrigar o consumidor a utilizá-lo e por isso não é parte essencial. O STF entende que não é venda casada.
+10 a) A LGPD trata de dados coletados no Brasil, sem importar onde estao sendo coletados. 
+b) 1- A lei própria (regra de comunidade) pode estar em desacordo com a do brasil. 
+2- pode-se alegar que não há limites muito definidos para esses casos, talvez as regras da comunidade sejam leniente. As redes sociais não são imunes, porém não são inocentes. 11- a) For e while.
+b) através de indentação
+c) Soma (entre números) e concatenação (operação de juntar dois textos).
+d) É um pedaço do programa; um bloco de código reutilizável. 
+e) Def
+  #defnome(lista_parametros):
+    #indentação e bloco de comando
+f) If, if_else, if_elif_else
+ If idade>18
+    print(maior de idade")
+
+If idade<18:
+    print ("menor de idade")
+else:
+  print("maior de idade")
+
+if idade<18:
+  print ("manor de idade")
+elif idade<60:
+  print("adulto")
+else:
+  print("idoso")
